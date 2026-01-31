@@ -12,7 +12,7 @@ This project combines the magic of hardware and software.
 - best decision even when they are far away.
 
 ![appInterface](/uiStyle1.png)
-![appInterface](/uiStyle3.png)
+
 
 ---
 
@@ -29,6 +29,7 @@ This project combines the magic of hardware and software.
 - **Software:** HTML, CSS, JavaScript, Firebase for real-time data syncing  
 
 ![appInterface1](/uiStyle2.png)
+![appInterface](/uiStyle3.png)
 
 
 ## How to Use
