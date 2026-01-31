@@ -12,6 +12,7 @@ This project combines the magic of hardware and software.
 - best decision even when they are far away.
 
 ![appInterface](/uiStyle1.png)
+![appInterface](/uiStyle3.png)
 
 ---
 
