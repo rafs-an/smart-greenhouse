@@ -11,7 +11,7 @@ This project combines the magic of hardware and software.
 - **Software:** Data is displayed in real-time, allowing users to monitor conditions and control the system in both automatic and manual modes. It also displays the current weather condition of the area allowing the users to take the
 - best decision even when they are far away.
 
-![appInterface](/uiStayle1.png)
+![appInterface](/uiStyle1.png)
 
 ---
 
