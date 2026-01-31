@@ -11,6 +11,8 @@ This project combines the magic of hardware and software.
 - **Software:** Data is displayed in real-time, allowing users to monitor conditions and control the system in both automatic and manual modes. It also displays the current weather condition of the area allowing the users to take the
 - best decision even when they are far away.
 
+![appInterface](/uiStayle1.png)
+
 ---
 
 ## Features
@@ -25,7 +27,8 @@ This project combines the magic of hardware and software.
 - **Hardware:** Arduino / ESP32, DHT22, soil moisture sensor, pH sensor, relays, fans, pumps, servos  
 - **Software:** HTML, CSS, JavaScript, Firebase for real-time data syncing  
 
----
+![appInterface1](/uiStyle2.png)
+
 
 ## How to Use
 1. Clone the repository:  
@@ -41,7 +44,7 @@ This project combines the magic of hardware and software.
 
 
 ## Future Improvements:
--Add voice control integration for hands-free operation.
--Enhance the frontend dashboard with graphs and notifications.
--Integrate AI for predictive watering and fertilization.
+- Add voice control integration for hands-free operation.
+- Enhance the frontend dashboard with graphs and notifications.
+- Integrate AI for predictive watering and fertilization.
    
